@@ -7,15 +7,13 @@ Course info, examples, topic, wiki
 https://github.com/IITIDIDX597/Course_Examples
 
 ### Slack Subdomain
-Communication app for class
+Subdomain (after sign up)
 
-trope collaborative.slack.com
+trope_collaborative.slack.com
 
 ### Zenhub Link
-Coming soon Based on Teams
-
-https://app.zenhub.com/workspaces/team-2-spring-2019-agile-culture-workspace-5c76fc895ff2361361473863/boards?repos=172931314
-http://bit.ly/2XtYh9b
+https://app.zenhub.com/workspaces/team-1-spring-2019-agile-culture-workspace-5c76fc865ff236136147385a/boards?repos=172931182
+http://bit.ly/2BYRuuU
 
 ### MURAL
 Workspace for reflections
