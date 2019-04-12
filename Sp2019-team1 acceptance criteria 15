@@ -1,0 +1,30 @@
+Subhill
+When a creator creates an egg, they need to include
+a picture, a description, date/time/location, and
+choose which category of eggs it falls into.
+
+Story
+As a creator of an egg,
+I want to know exactly what I need to need to input
+so that I can quickly and conveniently share with the office my ideas for possible events.
+
+Acceptance Criteria
+Given I'm in a role of logged-in user,
+When I click on "Lay an egg"
+Then the system shows me the "Lay an egg" page containing "Title", "Description", "Start Time", "End Time", "Location", "Category", "Add an egg-citing image", "Leaders needed", "Participants needed", and "We'll need funding".
+When I fill in the "Title" field with the title for my event
+And I fill in the "Description" field with a description of my event
+And I fill in the "Start Time" field with the time my event will start
+And I fill in the "End Time" field with the time my event will end
+And I fill in the "Location" field with the place where my event will take place
+And I fill in the "Category" field with one of the available categories
+And I upload an image
+And I select "Leaders" if I want other leaders planning my event or leave it blank if I don't want other leaders planning my event
+And I fill in the "Leaders" field with how many leaders I want to help plan my event if I selected "Leaders"
+And I select "Participants" if I want there to be a minimum number of participants at my event or I leave it blank if there isn't a minimum number of participants I want at my event
+And I fill in the "Participants" field with how many participants I want the minimum number to be at my event
+And I select "We'll need funding" if we need funding or leave it blank if this event won't need company funding
+And I click the "Create" button
+Then the system submits my egg 
+And the system shows the "Thank you for laying your egg!" flash message
+And the system closes the "Lay an egg" box
