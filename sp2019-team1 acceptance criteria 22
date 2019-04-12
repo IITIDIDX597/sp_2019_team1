@@ -1,0 +1,16 @@
+### Subhill
+Every user will have a notification page where
+they can see changes made to eggs they RSVPed
+for and any eggs that were shared with them by
+other users.
+
+### Story
+As an office employee,
+I want to be notified if changes have been made to eggs I've RSVPed for
+so that I can manage my commitments to office events
+
+### Acceptance criteria
+Given I've RSVPed for at least one egg,
+When a change is made to an egg I've RSVPed for by that egg's creator or leader(s),
+Then I will get a notification via the notification channels I have activated in my profile preferences
+And I will be able to see an alert on my notifications page within the Hatch app.
