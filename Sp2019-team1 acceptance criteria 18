@@ -1,0 +1,19 @@
+Story:
+As an office employee,
+I want to be able to see all of the eggs I've RSVPed for
+so that I can easily see what's coming up for me and manage my schedule.
+
+Sub-hill: 
+Every user will have a notification page where
+they can see changes made to eggs they RSVPed
+for and any eggs that were shared with them by
+other users.
+
+Acceptance criteria:
+Given I've RSVPed for at least one egg,
+When I click on the "Eggs I've Supported" tab
+And click on the "RSVPed For" filter
+Then I will be shown only the eggs I've RSVPed for
+When I click on one of the eggs I've RSVPed for
+Then I will be brought to that egg's info page
+And can edit my responses or role related to that egg.
