@@ -1,0 +1,15 @@
+As an office employee,
+I want to be able to easily access all the eggs I've supported
+so that I can easily decide at a later time if I'd like to RSVP for or lead an egg.
+
+Sub-hill: Eggs that a user "likes" are bookmarked and
+added to separate page only that user has access
+to so that he/she has easier access to those eggs.
+
+Acceptance Criteria:
+Given that I've shown my support for at least one egg,
+When I click on the "My liked eggs" tab
+Then I will be brought to a page that displays only all of the eggs I've supported. 
+When I click on the eggs on this page
+Then I will be brought to the info page for that egg
+And can edit my responses or role related to that egg.
