@@ -1,13 +1,12 @@
-### Subhill
-As an office employee,
-I want to know which eggs still need leaders
-so that I can sign on to plan and support specific events that are of value to the office
-
 ### Story
-Each egg will say how many leaders are still needed
-to complete the team that is planning the event.
+As an office employee,
+I want to know which eggs still need leaders,
+so that I can sign on to plan and support specific events that are of value to the office,
+
+### Subhill
+Each egg will say how many leaders are still needed to complete the team that is planning the event.
 
 ### Acceptance Criteria
-Given that I have more options ,
-When I can sign on to the event, 
-Then I will receive notifications for the event which I signed up.
+Given that I can click eggs which one I would like to sign up and participant in those events  ,
+When I can sign on to the egg which I am interested to be a leader, 
+Then I will receive notifications for the event which I clicked.
