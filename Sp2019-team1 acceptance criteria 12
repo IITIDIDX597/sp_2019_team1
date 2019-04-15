@@ -8,6 +8,8 @@ so that I can attend and be involved in the office community.
 
 ### Acceptance criteria
 Given I've see events that are going on
-When make a decition,
+When I make a decision,
 Then I will get a notification about this event
 And I will be able to attens and be involved in the office community.
+
+
