@@ -1,13 +1,12 @@
-### Story
+## Story
 As an office employee,
 I want to know which eggs still need leaders,
 so that I can sign on to plan and support specific events that are of value to the office,
 
-### Subhill
+## Subhill
 Each egg will say how many leaders are still needed to complete the team that is planning the event.
 
-### Acceptance Criteria
-
-Given that there are eggs with no leader, I can choose which egg I would like to sign up and participate in
-When I sign up to be a leader of an egg
-Then I will receive all notifications for that event
+## Acceptance Criteria
+Given that I am logged into Hatch,
+When an egg has not received the number of leaders needed
+Then the information for that egg will indicate that it is short of leaders.
