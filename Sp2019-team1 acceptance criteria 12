@@ -1,5 +1,5 @@
 ### Subhill
-Employees can see all the eggs on a new feed.
+Employees can see all the eggs on a news feed.
 
 ### Story
 As an employee,
@@ -7,7 +7,9 @@ I want to be able to see all the events that are going on
 so that I can attend and be involved in the office community.
 
 ### Acceptance criteria
-Given I've see events that are going on
-When I make a decision,
-Then I will get a notification about this event
-And I will be able to attend and be involved in the office community.
+Given I have a Hatch account,
+When I input my username 
+And I input my password
+And I click "Login"
+Then I will be logged in
+And I be brought to a newsfeed page where I see all current eggs.
