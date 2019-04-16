@@ -12,4 +12,4 @@ When I input my username
 And I input my password
 And I click "Login"
 Then I will be logged in
-And I be brought to a newsfeed page where I see all current eggs.
+And I will be brought to a newsfeed page where I see all current eggs.
