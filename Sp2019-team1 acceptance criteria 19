@@ -7,6 +7,7 @@ so that I can sign on to plan and support specific events that are of value to t
 Each egg will say how many leaders are still needed to complete the team that is planning the event.
 
 ### Acceptance Criteria
-Given that eggs which was no leader I can click eggs which one I would like to sign up and participant in those events  ,
-When I can sign on to the egg which I am interested to be a leader, 
-Then I will be the leader and receive notifications for the event which I clicked.
+
+Given that there are eggs with no leader, I can choose which egg I would like to sign up and participate in
+When I sign up to be a leader of an egg
+Then I will receive all notifications for that event
